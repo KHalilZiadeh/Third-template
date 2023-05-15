@@ -138,7 +138,7 @@ ul {
 }
 
 .dots {
-    background-image: url(./Assets/dots.png);
+    background-image: url(../Assets/dots.png);
     width: 186px;
     height: 204px;
     background-repeat: no-repeat;
@@ -1523,7 +1523,7 @@ main .videos .container .holder .preview p {
 main .stats {
     padding-top: var(--main-padding-top);
     padding-bottom: var(--main-padding-bottom);
-    background-image: url(./Assets/stats.jpg);
+    background-image: url(../Assets/stats.jpg);
     background-size: cover;
     position: relative;
     min-height: 300px;
@@ -1623,7 +1623,7 @@ main .discount .content {
 }
 
 main .discount .image {
-    background-image: url(./Assets/discount-background1.jpg);
+    background-image: url(../Assets/discount-background1.jpg);
     background-size: cover;
     display: flex;
     justify-content: center;
